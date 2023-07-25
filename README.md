@@ -12,4 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: sweswe4720@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm a cat person 😸
-
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SweSwe-Nyein&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
